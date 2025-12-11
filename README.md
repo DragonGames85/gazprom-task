@@ -52,6 +52,7 @@ CREATE DATABASE gazprom_db;
 
 2. Настройте переменные окружения для backend:
 ```bash
+# Перейдите в папку backend и добавьте файл ".env"
 cd backend
 cp .env
 ```
