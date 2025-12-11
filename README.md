@@ -7,7 +7,7 @@
 - **Backend**: NestJS (Node.js)
 - **Frontend**: Next.js 14 (React)
 - **База данных**: PostgreSQL
-- **Стилизация**: Tailwind CSS с неоновой темой
+- **Стилизация**: Tailwind CSS
 
 ## Функциональность
 
