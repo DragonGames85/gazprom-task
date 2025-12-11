@@ -42,6 +42,9 @@ npm run install:all
 
 ### Шаг 2: Настройка базы данных
 
+УБЕДИТЕСЬ, ЧТО У ВАС УСТАНОВЛЕН PostgreSQL!
+https://www.postgresql.org/download/
+
 1. Создайте базу данных PostgreSQL:
 ```sql
 CREATE DATABASE gazprom_db;
